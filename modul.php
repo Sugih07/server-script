@@ -200,11 +200,11 @@ function ban1(){
   print Slow("     \033[1;96m😘TIDAK ADA PROSES YANG MENGKHIANATI HASIL😘\n");
   echo Slow( str_repeat("\033[1;91m◼",53)."\n");
   }
-/*system("clear");
+system("clear");
 ban1();
 echo ("\033[1;97m Please Subscribe🙏\r");
 sleep(2);
 system('termux-open https://youtube.com/c/DavillCreative');
 echo ("\033[1;97m Thanks🙏                    \r");
 sleep(2);
-echo ("                        \r");*/
+echo ("                        \r");
